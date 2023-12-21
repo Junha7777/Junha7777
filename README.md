@@ -1,5 +1,8 @@
-### Hi there 👋
+### 안녕하세요! iOS 개발자 임금입니다! 👋
 
+## Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon11225)]()  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gwonjiyoung07)](https://solved.ac/gwonjiyoung07)
 <!--
 **Junha7777/Junha7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
