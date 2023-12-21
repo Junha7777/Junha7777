@@ -2,7 +2,7 @@
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junha7777)]()  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgswhighschool)](https://solved.ac/dgswhighschool)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Junha7777)](https://solved.ac/dgswhighschool)
 <!--
 **Junha7777/Junha7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
