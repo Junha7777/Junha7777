@@ -1,7 +1,7 @@
 ### 안녕하세요! iOS 개발자 임금입니다! 👋
 
 ## Status
-[[![Anurag's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Junha7777)&hide=stars,contribs&count_private=true)
+[![Junha7777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junha7777)](https://github.com/Junha7777/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgswhighschool)](https://solved.ac/dgswhighschool)
 
 ## Hits
