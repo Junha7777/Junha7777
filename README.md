@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=null&color=000000&height=10&section=header&text=iOS 개발자 임금입니다! 👋&fontSize=50" />
 
 ### 안녕하세요! iOS 개발자 임금입니다! 👋
 
