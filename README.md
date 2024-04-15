@@ -1,7 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+
 ### 안녕하세요! iOS 개발자 임금입니다! 👋
 
 ## Status
 [![Junha7777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junha7777)](&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgswhighschool)](https://solved.ac/dgswhighschool)
 
 ## Hits
