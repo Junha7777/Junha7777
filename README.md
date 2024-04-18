@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-### 안녕하세요! iOS 개발자 임금입니다! 👋
+### 안녕하세요! iOS 개발자 임금입니다! 👋 
 
 ## Status
 ![Junha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junha7777&hide=contribs,prs&show_icons=true&theme=dark)
