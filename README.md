@@ -7,6 +7,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgswhighschool)](https://solved.ac/dgswhighschool)
 
+[![BOJ](https://bojstat.vulcan.site/sk14cj)](https://www.acmicpc.net/user/sk14cj)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junha7777)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Last Commit](https://img.shields.io/github/last-commit/Junha7777/Baekjoon.svg)
